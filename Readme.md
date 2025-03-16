@@ -14,7 +14,7 @@ Movie App is a command-line and web-based application to manage a movie database
 
 . ├── istorage.py # IStorage interface definition ├── storage_json.py # JSON storage implementation ├── storage_csv.py # CSV storage implementation ├── movie_app.py # CLI app containing all commands (CRUD, website generation, etc.) ├── main.py # Main entry point of the application ├── omdb_client.py # Module for interacting with the OMDb API ├── _static │ ├── index_template.html # HTML template for website generation │ └── style.css # CSS file for styling the website ├── README.md # Project documentation └── requirements.txt # List of required packages
 
-markdown
+
 
 
 ## Requirements
