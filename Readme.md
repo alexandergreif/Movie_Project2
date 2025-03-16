@@ -51,6 +51,9 @@ To run all tests with pytest:
 bash
 
 pytest
+
+
+
 License
 This project is provided for educational purposes.
 
