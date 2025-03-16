@@ -53,14 +53,3 @@ bash
 pytest
 License
 This project is provided for educational purposes.
-
-
-
----
-
-This updated README removes the “yaml ” references and keeps the instructions concise. If you need further modifications or want to include additional information, feel free to edit accordingly!
-
-
-
-
-
