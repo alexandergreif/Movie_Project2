@@ -36,7 +36,7 @@ Install Dependencies:
 bash
 
 pip install -r requirements.txt
-Create a .env File for OMDb API Key:
+Create a .env File for OMDb API Key: 
 
 ini
 
